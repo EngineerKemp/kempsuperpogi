@@ -11,7 +11,7 @@ h1 {
 table {
     width: 100%;
     border-collapse: collapse;
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
 th {
@@ -50,4 +50,9 @@ table.newStyle th {
 
 table.newStyle td {
     background-color: #ffffcc;
+}
+
+ul {
+    text-align: center;
+    margin: 10px;
 }
